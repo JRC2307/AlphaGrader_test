@@ -1,6 +1,8 @@
 
-a = int(input("Input first int: "))
-b = int(input("Input second int: "))
+#Sum 2 ints 
+
+a = int(input())
+b = int(input())
 
 c = a+b
 
